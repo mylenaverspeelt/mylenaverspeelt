@@ -1,7 +1,4 @@
-### Olá! me chamo Mylena Verspeelt
-- 🔭 Hoje sou Biomédica e trabalho como Responsável Técnica de um Laboratório em Caruaru-PE
-- 🌱 Estou aprendendo tecnologias front-end como HTML5, CSS3 e Bootstrap
-- 😄 Pronomes: Ela/dela
+### Oiiiiiii! me chamo Mylena Verspeelt
  <div>
   <a href="https://github.com/mylenaverspeelt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
