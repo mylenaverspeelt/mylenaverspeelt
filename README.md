@@ -1,4 +1,4 @@
-### Oiiiiiii! Me chamo Mylena Verspeelt :)
+### Oiiiiiii! Seja bem vinda (o)!
  <div>
   <a href="https://github.com/mylenaverspeelt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
