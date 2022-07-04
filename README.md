@@ -21,7 +21,7 @@
 <br/>
 <!-- HARD SKILLS  -->
 
-<h2 align='center'> what i've been using the most lately 👩‍💻 </h2>
+<h2 align='center'> What Ive been using the most lately 👩‍💻 </h2>
   <p align='center'>
   <img width='40px' align='center'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
