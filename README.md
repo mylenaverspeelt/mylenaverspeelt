@@ -23,27 +23,26 @@
 
 <h2 align='center'> What I've been using the most lately 👩‍💻 </h2>
   <p align='center'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='html-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='css-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='javascript-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='bootstrap-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='react-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
- <img width='40px' align='center'
+ <img width='40px' align='center' alt='typescript-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='express-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
-<img width='40px' align='center'
+<img width='40px' align='center' alt='node-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-  <img width='40px' align='center'
+  <img width='40px' align='center' alt='git-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-  <img width='40px' align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img width='40px' align='center' alt='nextjs-icon' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   </p>
-  
   <br/>
 
   
