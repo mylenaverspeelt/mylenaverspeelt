@@ -1,6 +1,6 @@
 ### Oiiiiiii! Seja bem-vinda(o)!
  <div align="center">
-  <a href="https://github.com/mylenaverspeelt">
+  <a href="https://github.com/mylenaverspeelt" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
@@ -8,6 +8,7 @@
 
 
   <p align="center"> A little about myself </p>
+ <div align="justified"> 
   <p> 🎓 I have a bachalor's degree Biomedical Science (2018) and two postgratuate degrees also in the area. </p>
   <p> 👩‍💻 After realizing biology wasn't enough for me, I started studying JS by myself watching online courses, and 6 months later, I started my second graduation at Systems for Web (2022).
  </p>
