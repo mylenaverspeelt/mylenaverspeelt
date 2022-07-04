@@ -17,7 +17,8 @@
 🔬 I've worked at the healthcare area for 3 years (and couting) being the Technical Supervisor of the lab, where I was able to develop leadership skills, interpersonal communication, empathy and conflict resolution.
 
 🌱 Through this experience as a Web Developer, beyond technical skills, I learned how to optmize my time and to be more self-disciplined on my routine.
-
+<br/>
+<br/>
 <!-- HARD SKILLS  -->
 
 <h2 align='center'> What I have used most often nowadays 👩‍💻 </h2>
@@ -40,6 +41,9 @@
   <img width='40px' align='center'   
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   </p>
+  
+  <br/>
+  <br/>
   
 <!--   CONTACT -->
   
