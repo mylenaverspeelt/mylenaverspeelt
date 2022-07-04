@@ -10,9 +10,9 @@
 
 <h2 align="center">A little about myself</h2>
 
-🎓 I have a bachalor's degree Biomedical Science (2018) and two postgratuate degrees also in the area.
+🎓 I have a bachelor's degree Biomedical Science (2018) and two postgratuate degrees also in the area.
 
-👩‍💻 After realizing biology wasn't enough for me, I started studying JS by myself watching online courses, and 6 months later, I started my second graduation at Systems for Web (2022).
+👩‍💻 After realizing biology wasn't enough for me, I started studying JS by myself watching online courses, and 6 months later, I started my second graduation at Systems for Web (2022 - 2024).
 
 🔬 I've worked at the healthcare area for 3 years (and couting) being the Technical Supervisor of the lab, where I was able to develop leadership skills, interpersonal communication, empathy and conflict resolution.
 
