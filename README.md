@@ -47,12 +47,14 @@
   
 <!--   CONTACT -->
   
-<h2 align="center">Where You can find me:</h2>
+<h2 align="center">Get in touch with me!</h2>
 <div align="center"> 
   <a href ="mailto:mylena49@hotmail.com"><img src="https://img.shields.io/badge/- Hotmail -%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylenaverspeelt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- <br>
+ <br/> 
+  <br/>
+ 
   
   <p align="center">
   <img src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g"/>
