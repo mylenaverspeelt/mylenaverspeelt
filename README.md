@@ -16,6 +16,7 @@
 
 🔬 I've worked at the healthcare area for 3 years (and counting) being the Technical Supervisor of the lab, where I was able to develop leadership skills, interpersonal communication, empathy and conflict resolution.
 
+</br>
 
 <!-- HARD SKILLS  -->
 
