@@ -10,13 +10,12 @@
 
 <h2 align="center">A little about myself</h2>
 
-🎓 I have a bachelor's degree Biomedical Science (2018) and two postgraduate degrees also in the area.
+👩‍💻 Associate degree in Systems for Web (2022 - 2024) - Faculdade Descomplica
 
-👩‍💻 After realizing biology wasn't enough for me, I started studying JS by myself watching online courses, and 6 months later, I started my second graduation at Systems for Web (2022 - 2024).
+🎓 Bachelor's degree in Biomedical Science (2018) and two postgraduate degrees also in the area.
 
 🔬 I've worked at the healthcare area for 3 years (and counting) being the Technical Supervisor of the lab, where I was able to develop leadership skills, interpersonal communication, empathy and conflict resolution.
 
-🌱 Through this experience as a Web Developer, beyond technical skills, I learned how to optimize my time and to be more self-disciplined on my routine.
 <br/>
 <br/>
 <!-- HARD SKILLS  -->
