@@ -10,11 +10,11 @@
 
 <h2 align="center">A little about myself</h2>
 
-👩‍💻 Associate degree in Systems for Web (2022 - 2024) - Faculdade Descomplica
+🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
-🎓 Bachelor's degree in Biomedical Science (2018) and two postgraduate degrees also in the area.
+👩‍💻 Tenho interesse em desenvolvimento web. Meu foco atualmente é Javascript e seus frameworks como Typescript, React e Node. Sou familiarizada com frameworks como Express, Jest, Axios, Git/Github, NextJS, SASS, Material-UI, headlessUI, styled-components, Bootstrap, Tailwind CSS etc. Também tenho conhecimento básico em UI/UX, Figma e Banco de Dados SQL.
 
-🔬 I've worked at the healthcare area for 3 years (and counting) being the Technical Supervisor of the lab, where I was able to develop leadership skills, interpersonal communication, empathy and conflict resolution.
+🔬 Atuo na área da saúde há 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver diversas habilidades comportamentais como liderança, escuta, resolução de conflitos, atendimento ao público e empatia.
 
 </br>
 
