@@ -8,7 +8,7 @@
 
 <!-- BIO -->
 
-<h2 align="center">A little about myself</h2>
+<h2 align="center">Sobre mim:</h2>
 
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
@@ -20,7 +20,7 @@
 
 <!-- HARD SKILLS  -->
 
-<h2 align='center'> What I've been using the most lately 👩‍💻 </h2>
+<h2 align='center'> 👩‍💻 O que eu tenho usado recentemente: </h2>
   <p align='center'>
   <img width='40px' align='center' alt='html-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
@@ -47,7 +47,7 @@
   
 <!--   CONTACT -->
   
-<h2 align="center">Get in touch with me!</h2>
+<h2 align="center">Manda as ordens!</h2>
 <div align="center"> 
   <a href ="mailto:mylena49@hotmail.com"><img src="https://img.shields.io/badge/- Hotmail -%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylenaverspeelt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
