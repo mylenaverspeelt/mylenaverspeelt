@@ -20,7 +20,7 @@
 
 <!-- HARD SKILLS  -->
 
-<h2 align='center'> 👩‍💻 O que eu tenho usado recentemente: </h2>
+<h2 align='center'> O que eu tenho usado recentemente: </h2>
   <p align='center'>
   <img width='40px' align='center' alt='html-icon'
     src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
