@@ -43,9 +43,9 @@
   <img width='40px' align='center' alt='nextjs-icon' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   </p>
   <br/>
-  
+  <div align="center"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
   
 <!--   CONTACT -->
   
