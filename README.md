@@ -44,8 +44,7 @@
   </p>
   <br/>
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mylenaverspeelt)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <!--   CONTACT -->
