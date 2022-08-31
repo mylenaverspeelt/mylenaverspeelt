@@ -44,7 +44,7 @@
 <div align="center"> 
   <a href ="mailto:mylena49@hotmail.com"><img src="https://img.shields.io/badge/- Hotmail -%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mylenaverspeelt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://stackoverflow.com/users/19220230/mylena-verspeelt" target="_blank"><img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> 
+   <a href="https://stackoverflow.com/users/19220230/mylena-verspeelt" target="_blank"><img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"/></a> 
 </div>
  <br/> 
   <br/>
