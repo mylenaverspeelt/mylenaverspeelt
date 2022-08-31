@@ -43,6 +43,8 @@
   <img width='40px' align='center' alt='nextjs-icon' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   </p>
   <br/>
+  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mylenaverspeelt)  
 
   
 <!--   CONTACT -->
