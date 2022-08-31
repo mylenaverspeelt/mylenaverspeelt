@@ -3,8 +3,9 @@
   <a href="https://github.com/mylenaverspeelt" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=7&theme=light"/>
-</div><br>
+</div>
 
+<!-- SKILLS -->
 
 <h2 align="center">Frameworks and Libraries</h2>
 <br/>
@@ -24,7 +25,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> REDUX -->
-
+<br/>
 
 <!-- BIO -->
 
@@ -48,6 +49,7 @@
  <br/> 
   <br/>
  
+<!-- GIF  -->
   
   <p align="center">
   <img src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g"/>
