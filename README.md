@@ -4,7 +4,7 @@
 </div>
 
 <!-- SKILLS -->
-
+<div align="center"> 
 <h2 align="center">Linguagens e Ferramentas</h2>
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> REDUX -->
 <br/>
-
+</div>
 <!-- BIO -->
 
 <h2 align="center">Sobre mim:</h2>
