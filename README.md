@@ -35,8 +35,12 @@
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> REDUX -->
 <br/>
 </div>
-
-
+<!-- STATUS -->
+<div align="center">
+  <a href="https://github.com/mylenaverspeelt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=7&theme=ligth"/>
+</div>
   
 <!--   CONTACT -->
   
