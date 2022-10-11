@@ -1,10 +1,6 @@
 ### Bem vinda(o)  :)
- <div align="center">
-  <a href="https://github.com/mylenaverspeelt" />
-</div>
-<!-- BIO -->
 
-<h2 align="center">Sobre mim:</h2>
+<h2 align="center">Sobre mim</h2>
 
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
