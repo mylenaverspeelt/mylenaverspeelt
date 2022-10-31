@@ -6,6 +6,8 @@
 
 👩‍💻 Tenho interesse em desenvolvimento web. Meu foco atualmente é Javascript e seus frameworks como React, Typescript, Jest e Node. Sou familiarizada com ferramentas como Express, Axios, Git/Github, NextJS, SASS, Material-UI, headlessUI, styled-components, Bootstrap, Tailwind CSS etc. Também tenho conhecimento básico em UI/UX, Figma e Banco de Dados SQL.
 
+✅ Tô em busca da minha primeira oportunidade na área de T.I. 
+
 🔬 Atuo na área da saúde há 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver diversas soft skills como liderança, escuta, trabalho em equipe, resolução de conflitos, atendimento ao público e empatia.
 
 <!-- SKILLS
