@@ -1,9 +1,7 @@
 ### Bem vinda(o)  :)
 
-<div align="center">
-
 ## Sobre mim
-
+<div align="justify"
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
 👩‍💻 Tenho interesse em desenvolvimento web. Meu foco atualmente é Javascript e seus frameworks como React, Typescript, Jest e Node. Sou familiarizada com ferramentas como Express, Axios, Git/Github, NextJS, SASS, Material-UI, headlessUI, styled-components, Bootstrap, Tailwind CSS etc. Também tenho conhecimento básico em UI/UX, Figma e Banco de Dados SQL.
