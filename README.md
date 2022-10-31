@@ -1,6 +1,6 @@
 ### Bem vinda(o)  :)
 
-## Sobre mim
+#### Sobre mim
 <div align="justify"
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
