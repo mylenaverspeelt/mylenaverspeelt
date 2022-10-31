@@ -9,7 +9,7 @@
 🔬 Atuo na área da saúde há 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver diversas soft skills como liderança, escuta, trabalho em equipe, resolução de conflitos, atendimento ao público e empatia.
 
 
-<!-- SKILLS -->
+<!-- SKILLS
 <div align="center"> 
 <h2 align="center">Linguagens e Ferramentas</h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,7 +31,8 @@
 <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> REDUX -->
 <br/>
 </div>
-
+ -->
+ 
 <!-- STATUS -->
 <div align="center">
  <br/>
