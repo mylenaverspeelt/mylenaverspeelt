@@ -1,6 +1,8 @@
 ### Bem vinda(o)  :)
 
-<h2 align="center">Sobre mim</h2>
+<div align="center">
+
+## Sobre mim
 
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
@@ -9,7 +11,7 @@
 ✅ Tô em busca da minha primeira oportunidade na área de T.I. 
 
 🔬 Atuo na área da saúde há 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver diversas soft skills como liderança, escuta, trabalho em equipe, resolução de conflitos, atendimento ao público e empatia.
-
+</div>
 <!-- SKILLS
 <div align="center"> 
 <h2 align="center">Linguagens e Ferramentas</h2>
