@@ -1,6 +1,6 @@
 ### Bem vinda(o)  :)
 
-#### Sobre mim
+<h2 align='center'> Sobre mim </h2>
 <div align="justify"
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
 
