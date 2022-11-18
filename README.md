@@ -2,8 +2,10 @@
 
 <h2 align='center'> Sobre mim </h2>
 <div align="justify"
-🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
+👩 Eu tenho 25 anos, moro em Caruaru - PE e estou em transição de carreira!
 
+🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24
+     
 👩‍💻 Tenho interesse em desenvolvimento web e front-end. Meu foco atualmente é Javascript e seus frameworks como React, Typescript, Jest e Node. Sou familiarizada com diversas ferramentas como Express, NextJS, Material-UI, styled-components, entre outras... Faço versionamento dos meus códigos com Git no Github. Também tenho conhecimento básico em UI/UX, Figma e Banco de Dados SQL.
 
 🔬 Atuo na área da saúde há 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver habilidades de liderança, desenvoltura, atendimento ao público e empatia.
