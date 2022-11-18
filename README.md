@@ -1,7 +1,7 @@
 ### Bem vinda(o)  :)
 
 <h2 align='center'> Sobre mim </h2>
-<div align="justify"
+<div align="justify">
 👩 Eu tenho 25 anos, moro em Caruaru - PE e estou em transição de carreira!
 
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24
