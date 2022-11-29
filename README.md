@@ -23,11 +23,11 @@
 - Experiência com atendimento ao público, tomada de decisão, liderança e resolução de problemas.
 - Bacharelado em Biomedicina e 2 pós-graduações na área.
 
-
+<div display="flex"> 
   <a href="https://github.com/mylenaverspeelt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=7&theme=ligth"/>
-
+</div>
  
   <img src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g"/>
 
