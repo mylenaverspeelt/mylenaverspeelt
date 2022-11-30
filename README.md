@@ -21,7 +21,7 @@
 
 - Inglês avançado/fluente.
 - Experiência com atendimento ao público, tomada de decisão, liderança e resolução de problemas.
-- Bacharelado em Biomedicina e 2 pós-graduações na área.
+- Bacharelado em Biomedicina 
 
 <br/>
 <div display="flex"> 
