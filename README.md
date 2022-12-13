@@ -12,9 +12,9 @@
 
 ## Experiência
 
-- +1 ano de experiência em Front-End
-- +1 ano de experiência em JS e React
+- +1 ano de experiência em Javascript e React
 - +1 ano de experiência em HTML e CSS
+- +6 meses de experiência com Node, Typescript e Jest
 - +3 anos de experiência como Biomédica Responsável Técnica
 
 ## Skills
