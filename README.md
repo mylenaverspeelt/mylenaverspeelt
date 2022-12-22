@@ -24,7 +24,7 @@
 - Bacharelado em Biomedicina 
 
 <br/>
-<div display="flex"> 
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=7&theme=ligth"/>
 </div>
  <br/>
