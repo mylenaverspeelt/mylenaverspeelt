@@ -8,7 +8,7 @@
      
 👩‍💻 Tenho interesse em desenvolvimento web e front-end. Meu foco atualmente é Javascript e seus frameworks como React, Typescript, Jest e Node. Sou familiarizada com diversas frameworks de front-end e ferramentas de estilização. Faço versionamento dos meus códigos com Git no Github. Também tenho conhecimento básico em Banco de Dados SQL.
 
-🔬 Atuo na área da saúde há mais de 3 anos, sendo responsável técnica do laboratório, onde pude desenvolver diversas habilidades técnicas e comportamentais. 
+🔬 Atuo na área da saúde há mais de 3 anos, sendo responsável técnica do laboratório. Estou buscando minha primeira oportunidade como porgramadora.
 
 ## Experiência
 
