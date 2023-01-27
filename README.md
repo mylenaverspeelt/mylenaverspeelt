@@ -19,7 +19,7 @@
 
 ## Skills
 
-- Inglês avançado/fluente.
+- Inglês avançado
 - Experiência com atendimento ao público, comunicação, resolução de problemas e trabalho em equipe
 - Bacharelado em Biomedicina 
 
