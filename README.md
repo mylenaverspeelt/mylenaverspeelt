@@ -12,9 +12,14 @@
 
 ## Experiência
 
-- +1 ano de experiência em Javascript e React
-- +1 ano de experiência em HTML e CSS
-- +6 meses de experiência com Node, Typescript e Jest
+- Javascript, React e Typescript
+- Consumo de API Rest, Node + Express
+- Testes Unitários e TDD utilizando Jest
+- Boas práticas de desenvolvimento com Clean Code e SOLID
+- Várias ferramentas de estilização como styled-components, tailwind css, bootstrap, entre outras
+- Conhecimentos em MySQL e Java
+- Git/Github e Gitflow
+- HTML e CSS
 - +3 anos de experiência como Biomédica Responsável Técnica
 
 ## Skills
