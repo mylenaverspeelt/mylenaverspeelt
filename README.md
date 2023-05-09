@@ -4,9 +4,9 @@
      
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
      
-👩‍💻 Tenho interesse em desenvolvimento web e front-end. Desenvolvo em Javascript e tenho prática com React, Typescript, Node e consumo de APIs, diversas ferramentas de estilização, além de testes unitários e TDD com Jest.
+👩‍💻 Tenho interesse em desenvolvimento web e front-end. Desenvolvo em Javascript e tenho prática com React, Typescript, Node e consumo de APIs, diversas ferramentas de estilização, além de testes unitários e TDD com Jest. Tenho conhecimentos em Java e MySQL.
 
-📝 Aprendendo Java e MySQL
+📝 Aprendendo MongoDB
 
 🔬 Atuo na área da saúde há mais de 3 anos, sendo responsável técnica do laboratório. Estou buscando minha primeira oportunidade como dev.
 
