@@ -9,9 +9,9 @@
 👩‍💻 Atualmente estou estagiando na Improvess Informática e atuo na área da saúde há quase 4 anos, sendo responsável técnica do Laboratorio Nassau. 
 
 ### Me chama lá no linkedin, vamo se conectar! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mylenaverspeelt/) 
 <br/>
-<div display="flex" justify-content:"space-around"> 
+<div align="center"> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mylenaverspeelt/) 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent"/>  GITHUB STATS-->
 </div>
