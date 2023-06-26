@@ -13,7 +13,7 @@
 <br/>
 <div display="flex" justify-content:"space-around"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth"/>
-<div> https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent </div>
+<img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent"/>
 </div>
  <br/>
  <div align="center"> 
