@@ -11,7 +11,7 @@
 <br/>
      <div align="center">
 ### Me chama lá no linkedin, vamo se conectar! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mylenaverspeelt/) 
+<img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mylenaverspeelt/) />
      </div>
 <br/>
      <div align="center"> 
