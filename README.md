@@ -4,7 +4,7 @@
      
 🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
      
-❤️ Tenho interesse em desenvolvimento web e front-end. Desenvolvo em Javascript e tenho prática com React, Typescript, Node e consumo de APIs, diversas ferramentas de estilização, além de testes unitários e TDD com Jest. Atualmente estou estudando Java, Java Web, Primefaces...  
+❤️ Tenho interesse em desenvolvimento web e front-end. Desenvolvo em Javascript e tenho prática com React, Typescript, Node e consumo de APIs, diversas ferramentas de estilização, além de testes unitários e TDD com Jest. Atualmente estou estudando Java Web (JSF, Primefaces e JPA + Hibernate).
 
 👩‍💻 Estou estagiando na Improvess Informática :)
    
