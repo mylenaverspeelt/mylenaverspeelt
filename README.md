@@ -12,7 +12,7 @@ Me chamo Mylena, tenho 26 anos, estou cursando Sistemas para Internet pela Facul
 
 ```python
 skils = {
-  code: ['JavaScript', 'React', 'Node', 'TypeScript', Jest],
+  code: ['JavaScript', 'React', 'Node', 'TypeScript', 'Jest'],
   also_code : ['HTML and CSS', 'Java', 'MySQL'],
   love: ['front-end', 'ui/ux', 'open source', 'cats & dogs', 'music & cofee'],
   where: [ 'client side', 'server side'],
