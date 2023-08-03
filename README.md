@@ -23,10 +23,11 @@ skils = {
 ### My GitHub Stats
   
 <br/>
-     <div display="flex" > 
+    <div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth"/>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent", alt="mylena's github stats"></p>
-     </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent" alt="mylena's github stats">
+</div>
+
  <br/>
  <div align="center"> 
   <img src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g"/>
