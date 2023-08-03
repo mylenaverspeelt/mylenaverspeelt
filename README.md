@@ -1,17 +1,31 @@
-# Bem vinda(o)  :)
+# Oi, tudo bom?
 
-👩 Eu tenho 26 anos, moro em Caruaru - PE e estou em transição de carreira!
-     
-🎓 Estou cursando minha segunda graduação em Sistemas para Internet com previsão de conclusão pra junho/24.
-     
-❤️ Tenho interesse em desenvolvimento web e front-end. Desenvolvo em Javascript e tenho prática com React, Typescript, Node e consumo de APIs, diversas ferramentas de estilização, além de testes unitários e TDD com Jest. Atualmente estou estudando Java Web (JSF, Primefaces e JPA + Hibernate).
+<a href="https://www.linkedin.com/in/mylenaverspeelt/">
+  <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
+</a>
 
-👩‍💻 Estou estagiando na Improvess Informática :)
-   
+<br />
+
+### About Me
+
+Me chamo Mylena, tenho 26 anos, estou cursando Sistemas para Internet pela Faculdade Descomplica e atualmente moro em Caruaru - PE.
+
+```python
+skils = {
+  code: ['JavaScript', 'React', 'Node', 'TypeScript', Jest],
+  also_code : ['HTML and CSS', 'Java', 'MySQL'],
+  love: ['front-end', 'ui/ux', 'open source', 'cats & dogs', 'music & cofee'],
+  where: [ 'client side', 'server side'],
+  os: ['windows', 'linux'],
+}
+```
+
+### My GitHub Stats
+  
 <br/>
-     <div align="center"> 
+     <div align="justify" > 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent"/>  GITHUB STATS-->
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent", alt="mylena's github stats"></p>
      </div>
  <br/>
  <div align="center"> 
