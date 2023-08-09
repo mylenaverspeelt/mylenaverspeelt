@@ -8,7 +8,7 @@
 
 ### About Me
 
-Me chamo Mylena, tenho 26 anos, estou cursando Sistemas para Internet pela Faculdade Descomplica e atualmente moro em Caruaru - PE.
+Me chamo Mylena, tenho 26 anos, estou cursando Tecnólogo em Sistemas para Internet e atualmente moro em Caruaru - PE.
 
 ```python
 skils = {
@@ -16,7 +16,7 @@ skils = {
   also_code : ['HTML and CSS', 'Java', 'MySQL'],
   love: ['front-end', 'ui/ux', 'open source', 'cats & dogs', 'music & cofee'],
   where: [ 'client side', 'server side'],
-  os: ['windows', 'linux'],
+  os: ['windows'],
 }
 ```
 
