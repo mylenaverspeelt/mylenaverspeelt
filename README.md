@@ -1,24 +1,24 @@
-# Oi, tudo bom?
-
-<a href="https://www.linkedin.com/in/mylenaverspeelt/">
-  <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
-</a>
-
-<br />
-
 ### About Me
 
 ```python
 skils = {
   front_end: ['javascript', 'react', 'typescript', 'jest', 'html', 'css'],
-  back_end: ['node', 'java', 'JDBC', 'jersey', JPA', 'hibernate'],
+  back_end: ['node', 'java', 'JDBC', 'jersey', 'JPA', 'hibernate'],
   databases: ['MSSQL', 'MySQL'],
   where: [ 'client side', 'server side'],
   hobbies: ['music', 'gym', 'outdoor activities'],
   os: ['windows']
 }
 ```
+<br />
 
+### Let's be friends!
+
+<a href="https://www.linkedin.com/in/mylenaverspeelt/">
+  <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
+</a>
+
+<br />
 ### My GitHub Stats
   
 <br/>
