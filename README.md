@@ -10,14 +10,6 @@ skils = {
   os: ['windows']
 }
 ```
-### Let's be friends!
-
-<a href="https://www.linkedin.com/in/mylenaverspeelt/">
-  <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
-</a>
-
-<br />
-<br />
 
 ### My GitHub Stats
   
@@ -32,4 +24,8 @@ skils = {
   <img src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g"/>
 </div>
  
+### Let's be friends!
 
+<a href="https://www.linkedin.com/in/mylenaverspeelt/">
+  <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
+</a>
