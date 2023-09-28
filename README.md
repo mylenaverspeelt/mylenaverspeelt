@@ -10,14 +10,13 @@ skils = {
   os: ['windows']
 }
 ```
-<br />
-
 ### Let's be friends!
 
 <a href="https://www.linkedin.com/in/mylenaverspeelt/">
   <img align="left" alt="mylena's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
 </a>
 
+<br />
 <br />
 
 ### My GitHub Stats
