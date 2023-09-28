@@ -8,15 +8,14 @@
 
 ### About Me
 
-Me chamo Mylena, tenho 26 anos, estou cursando Tecnólogo em Sistemas para Internet e atualmente moro em Caruaru - PE.
-
 ```python
 skils = {
-  code: ['JavaScript', 'React', 'Node', 'TypeScript', 'Jest'],
-  also_code : ['HTML and CSS', 'Java', 'MySQL'],
-  love: ['front-end', 'ui/ux', 'open source', 'cats & dogs', 'music & cofee'],
+  front_end: ['javascript', 'react', 'typescript', 'jest', 'html', 'css'],
+  back_end: ['node', 'java', 'JDBC', 'jersey', JPA', 'hibernate'],
+  databases: ['MSSQL', 'MySQL'],
   where: [ 'client side', 'server side'],
-  os: ['windows'],
+  hobbies: ['music', 'gym', 'outdoor activities'],
+  os: ['windows']
 }
 ```
 
