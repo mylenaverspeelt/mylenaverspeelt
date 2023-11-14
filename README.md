@@ -12,8 +12,9 @@ skils = {
 ```
 
 ### My GitHub Stats
+  <br/>
   
-<div style="display: flex; justify-content: space-around;">
+  <div style="display: flex; justify-content: space-around;">
     <img
         src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g" />
 </div>
