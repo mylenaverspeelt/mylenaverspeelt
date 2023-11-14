@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth" /></p>
 
-<p>&nbsp;<img align="center" src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent"/></p>
 
  <div align="center">
     <img
