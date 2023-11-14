@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-wrap: no-wrap">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&layout=compact&langs_count=10&theme=ligth" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent" style"width: 300px"/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&show_icons=true&theme=transparent" style"max-width: 80%"/></p>
 </div>
 
 <div align="center">
