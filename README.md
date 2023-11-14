@@ -1,10 +1,12 @@
-<h1 align="center">Oi 👋, Me chamo Mylena!</h1>
-<h3 align="center"> Sou Pernambucana e Dev fullstack</h3>
+<h1 align="center">Oi , </h1>
+<h4 align="center"> Me chamo Mylena 👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando em: [Docshift](https://github.com/mylenaverspeelt/docshift)
+- 🔭 Atualmente estou trabalhando no projeto: [Docshift](https://github.com/mylenaverspeelt/docshift)
 
 - 🌱 No momento estou aprendendo: **Spring Boot**
-
+  
+- 🎯 Estou em busca de uma oportunidade na área dev
+  
 - 💬 Pergunte-me sobre: **JS, HTML and CSS**
 
 <h3 align="left">Habilidades Tecnicas:</h3>
