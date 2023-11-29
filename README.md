@@ -1,4 +1,5 @@
-<h3 align="center"> Me chamo Mylena 👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h3>
+<h3 align="center"> Me chamo Mylena </h3>
+<h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
 - 🔭 Atualmente estou trabalhando no projeto: [Docshift](https://github.com/mylenaverspeelt/docshift)
 
