@@ -1,7 +1,7 @@
 <h3 align="center"> Me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [Docshift](https://github.com/mylenaverspeelt/docshift)
+- 🔭 Atualmente estou trabalhando no projeto: [SpringFlix JPA](https://github.com/mylenaverspeelt/springflix-jpa)
 
 - 🌱 No momento estou aprendendo: **Spring Boot**
   
