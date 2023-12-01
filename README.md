@@ -1,4 +1,4 @@
-<h3 align="center"> Me chamo Mylena </h3>
+<h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
 - 🔭 Atualmente estou trabalhando no projeto: [SpringFlix JPA](https://github.com/mylenaverspeelt/springflix-jpa)
