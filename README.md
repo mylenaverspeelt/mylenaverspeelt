@@ -1,9 +1,9 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [SpringFlix JPA](https://github.com/mylenaverspeelt/springflix-jpa)
+- 🔭 Atualmente estou trabalhando no projeto: [MongoBooks](https://github.com/mylenaverspeelt/mongobooks)
 
-- 🌱 No momento estou aprendendo: **Spring Boot**
+- 🌱 No momento estou aprendendo: **MongoDB + API Rest com Express**
   
 - 🎯 Estou em busca de uma oportunidade na área dev
   
