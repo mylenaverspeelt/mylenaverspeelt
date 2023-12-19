@@ -1,7 +1,7 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [MongoBooks](https://github.com/mylenaverspeelt/mongobooks)
+- 🔭 Atualmente estou trabalhando no projeto: [angular-ts](https://github.com/mylenaverspeelt/angular-ts)
 
 - 🌱 No momento estou aprendendo: **Angular e Typescript**
   
