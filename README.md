@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto: [MongoBooks](https://github.com/mylenaverspeelt/mongobooks)
 
-- 🌱 No momento estou aprendendo: **Angular**
+- 🌱 No momento estou aprendendo: **Angular e Typescript**
   
 - 🎯 Estou em busca de uma oportunidade na área dev
   
