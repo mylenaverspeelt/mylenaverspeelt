@@ -1,9 +1,9 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [pizza-express](https://github.com/mylenaverspeelt/pizza-express)
+- 🔭 Atualmente estou trabalhando no projeto: [group-talk](https://github.com/mylenaverspeelt/group-talk)
 
-- 🌱 No momento estou aprendendo: **Next.js, React, MongoDB e Tailwind CSS**
+- 🌱 No momento estou utilizando: **Node, Express e WebSockets**
   
 - 🎯 Estou em busca de uma oportunidade na área de TI, preferencialmente na área dev
   
