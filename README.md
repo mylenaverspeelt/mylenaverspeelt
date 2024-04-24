@@ -1,9 +1,9 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [group-talk](https://github.com/mylenaverspeelt/group-talk)
+- 🔭 Atualmente estou trabalhando no projeto: [testes-backend](https://github.com/mylenaverspeelt/testes-backend)
 
-- 🌱 No momento estou utilizando: **Node, Express e WebSockets**
+- 🌱 No momento estou aprendendo: **Arquitetura de sistemas, system design e Testes unitários com Jest**
   
 - 🎯 Estou em busca de uma oportunidade na área de TI, preferencialmente na área dev
   
