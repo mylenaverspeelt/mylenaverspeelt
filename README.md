@@ -6,6 +6,8 @@
 - 🌱 No momento estou aprendendo: **Arquitetura de sistemas, system design e Testes unitários com Jest**
   
 - 🎯 Estou em busca de uma oportunidade na área de TI, preferencialmente na área dev
+
+- 📃 Acesse o meu currículo: [Curriculo Web](https://web-curriculo-tau.vercel.app/)
   
 - 💬 Pergunte-me sobre: **Front-end, Javascript, CSS**
 
