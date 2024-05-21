@@ -19,8 +19,3 @@
 
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="mylenaverspeelt" /></p>
 </div>
-
-<div align="center">
-    <img
-        src="https://media2.giphy.com/media/HdBiTRPxTMnvi/giphy.gif?cid=790b7611ec26878ff072cc1bcf98badb5797a4f3ab5f5f73&rid=giphy.gif&ct=g" />
-</div>
