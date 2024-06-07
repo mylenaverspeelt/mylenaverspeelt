@@ -4,7 +4,7 @@
 <p>🖥️ Desenvolvo nas linguagens Javascript e Java, com foco no Front-End mas com habilidades Full Stack </p>
 <p>🛠️ Utilizo diversas ferramentas modernas como Angular, React, Spring e Next.js, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript</p>
 <p>🎯 Estou em busca de uma oportunidade na área de TI</p>
-<p>📃 Acesse o meu currículo web:</p> [Curriculo Web](https://web-curriculo-tau.vercel.app/)
+<p>📃 Acesse o meu currículo web: https://web-curriculo-tau.vercel.app/ </p> 
 
 <div align="center">
   <a href="https://github.com/mylenaverspeelt">
