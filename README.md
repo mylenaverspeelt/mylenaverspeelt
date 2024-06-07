@@ -1,9 +1,9 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Sou Pernambucana e Desenvolvedora Fullstack Jr.</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [Finance Friend](https://github.com/mylenaverspeelt/finance-friend)
+- 🔭 Atualmente estou trabalhando no projeto: [MoveIt](https://github.com/mylenaverspeelt/move-it)
 
-- 🌱 No momento estou aprendendo: **Microsoft Copilot Studio, Microsoft Power Platform and Microsoft Azure**
+- 🌱 No momento estou aprendendo: **Angular e Java Spring**
   
 - 🎯 Estou em busca de uma oportunidade na área de TI, com disponibilidade imediata
 
