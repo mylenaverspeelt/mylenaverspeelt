@@ -1,10 +1,10 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Aqui você encontra o meu portfólio de projetos!</h4>
 
-🖥️ Desenvolvo nas linguagens Javascript e Java, com foco no Front-End mas com habilidades Full Stack
-🛠️ Utilizo diversas ferramentas modernas como Angular, React, Spring e Next.js, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript
-🎯 Estou em busca de uma oportunidade na área de TI
-📃 Acesse o meu currículo web: [Curriculo Web](https://web-curriculo-tau.vercel.app/)
+<p>🖥️ Desenvolvo nas linguagens Javascript e Java, com foco no Front-End mas com habilidades Full Stack </p>
+<p>🛠️ Utilizo diversas ferramentas modernas como Angular, React, Spring e Next.js, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript</p>
+<p>🎯 Estou em busca de uma oportunidade na área de TI</p>
+<p>📃 Acesse o meu currículo web: [Curriculo Web](https://web-curriculo-tau.vercel.app/)</p>
   
 
 <div align="center">
