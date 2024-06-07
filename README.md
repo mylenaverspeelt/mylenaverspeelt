@@ -1,21 +1,28 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
-<h4 align="center">👋 Sou Pernambucana e Desenvolvedora de Software</h4>
+<h4 align="center">👋 Aqui você encontra o meu portfólio de projetos!</h4>
 
-- 🔭 Atualmente estou trabalhando no projeto: [MoveIt](https://github.com/mylenaverspeelt/move-it)
-
-- 🌱 No momento estou estudando: **Angular e Java Spring**
+🖥️ Desenvolvo nas linguagens Javascript e Java, com foco no Front-End mas com habilidades Full Stack
+🛠️ Utilizo diversas ferramentas modernas como Angular, React, Spring e Next.js, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript
+🎯 Estou em busca de uma oportunidade na área de TI
+📃 Acesse o meu currículo web: [Curriculo Web](https://web-curriculo-tau.vercel.app/)
   
-- 🎯 Estou em busca de uma oportunidade na área de TI, com disponibilidade imediata
 
-- 📃 Acesse o meu currículo web: [Curriculo Web](https://web-curriculo-tau.vercel.app/)
-  
-- 💬 Pergunte-me sobre: **Javascript, Desenvolvimento Web, HTML e CSS**
-
-<h3 align="left">Tecnologias que eu uso:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<div style="display: flex; justify-content: center;">
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="mylenaverspeelt" /></p>
-
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="mylenaverspeelt" /></p>
+<div align="center">
+  <a href="https://github.com/mylenaverspeelt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"/>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="TypeScript" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Node.js" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Next.js" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Vitest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+   <img align="center" alt="Jest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg">
+<img align="center" alt="Java" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Spring" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="SQL" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  </div>
