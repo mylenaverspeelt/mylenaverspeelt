@@ -1,9 +1,9 @@
 <h3 align="center"> Olá, me chamo Mylena </h3>
 <h4 align="center">👋 Aqui você encontra o meu portfólio de projetos!</h4>
 
-<p>🖥️ Desenvolvo nas linguagens Javascript e Java, com foco no Front-End mas com habilidades Full Stack </p>
-<p>🛠️ Utilizo diversas ferramentas modernas como Angular, React, Spring e Next.js, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript</p>
-<p>🎯 Estou em busca de uma oportunidade na área de TI</p>
+<p>🖥️ Desenvolvo nas linguagens Javascript e Java </p>
+<p>🛠️ Utilizo diversas ferramentas modernas Angular, Node, Typescript e React, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript</p>
+<p>🎯 Faço uso do Spring Boot para criar e configurar aplicações Java de forma rápida e eficiente</p>
 <p>📃 Acesse o meu currículo web: https://web-curriculo-tau.vercel.app/ </p> 
 
 <br>
@@ -22,7 +22,6 @@
   <img align="center" alt="Angular" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScript" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Next.js" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Jest" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg">
   <img align="center" alt="Java" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
