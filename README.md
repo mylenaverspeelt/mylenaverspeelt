@@ -2,7 +2,7 @@
 <h4 align="center">👋 Aqui você encontra o meu portfólio de projetos!</h4>
 
 <p>🖥️ Desenvolvo nas linguagens Javascript e Java </p>
-<p>🛠️ Utilizo diversas ferramentas modernas Angular, Node, Typescript e React, mas tambem possuo uma base solida em HTML, CSS e vanilla Javascript</p>
+<p>🛠️ Utilizo diversas ferramentas modernas Angular, Node, Typescript e React, mas tambem possuo uma base solida em HTML, CSS, vanilla Javascript e lógica de programação</p>
 <p>🎯 Faço uso do Spring Boot para criar e configurar aplicações Java de forma rápida e eficiente</p>
 <p>📃 Acesse o meu currículo web: https://web-curriculo-tau.vercel.app/ </p> 
 
