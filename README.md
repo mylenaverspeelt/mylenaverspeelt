@@ -2,6 +2,7 @@
 <h4 align="center">👋 Aqui você encontra o meu portfólio de projetos!</h4>
 
 <p>🖥️ Desenvolvo nas linguagens Javascript e Java </p>
+<p> Estou trabalhando no [Examina](https://github.com/mylenaverspeelt/examina), um projeto fullstack ligado a área da saúde. </p>
 <p>🛠️ Utilizo diversas ferramentas como Angular, Node, Typescript e React, mas tambem possuo uma base solida em HTML, CSS, vanilla Javascript e lógica de programação</p>
 <p>🎯 Faço uso do Spring Boot para criar e configurar aplicações Java de forma rápida e eficiente</p>
 <p>🧾 Tenho experiência com banco de dados relacionais como PostgreSQL, SQLite e MSSQL</p>
