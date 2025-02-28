@@ -1,15 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=640D5F&height=120&section=header"/>
-
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Me chamo Mylena Verspeelt
 </div>
-
-🖥️ Sou Desenvolvedora Fullstack Typescript<br/>
-🛠️ Graduada em Sistemas para Internet e Biomedicina<br/>
-🧾 Experiência com API Rest, RPC, BFF e Clean Arch<br/>
-➡️ Acesse o meu <a href="https://web-curriculo-tau.vercel.app/" target="_blank">currículo web</a> <br/>
-
 <div align="center">
   <a href="https://github.com/mylenaverspeelt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mylenaverspeelt&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
